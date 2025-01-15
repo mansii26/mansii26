@@ -47,6 +47,12 @@ Emerging Software Engineer | Data Scientist  | Creative Thinker | AI Enthusiast
 
 
 
+
+
+
+
+✨Looking to dive into the universe and feel ........
+
 ![Alt text](https://github.com/mansii26/mansii26/blob/main/1736923581864.gif)
 
 
