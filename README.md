@@ -34,6 +34,10 @@ Emerging Software Engineer | Data Scientist  | Creative Thinker | AI Enthusiast
 
 ⚡ Fun fact I have a knack for picking up new programming languages in record time playfully tackle the huge datasets.
 
+🤔 If 
+
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
