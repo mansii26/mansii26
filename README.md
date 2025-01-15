@@ -1,60 +1,48 @@
-
-
-
 Hi 👋, I'm Mansi Ingle
-
-<!--
-**mansii26/mansii26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Emerging Software Engineer | Data Scientist  | Creative Thinker | AI Enthusiast
-
-![image](https://github.com/user-attachments/assets/42cb01fa-741b-489a-8d63-30cce3abf712)
+Emerging Software Engineer | Data Scientist | Creative Thinker | AI Enthusiast
 
 
 
-🔭 I’m currently working on buikding a personality suiting the AI & Data Science Engineer with analyst skills
+🚀 About Me
+🔭 Currently Working On: Building a dynamic personality as an AI & Data Science Engineer with strong analytical and software development skills.
 
-🌱 I’m currently learning C++, Java , Machine Learning, Python Libraries and Power BI
+🌱 Currently Learning:
 
-👨‍💻 All of my projects are available at  https://github.com/mansii26
+Advanced C++ and Java
+Mastering Machine Learning and Python Libraries
+Exploring Power BI for Data Visualization
+💻 All of My Projects:
+Check out my work here.
 
-📫 How to reach me inglemanasi26@gmail.com
+⚡ Fun Fact: I can pick up new programming languages like a pro and love tackling massive datasets with creativity.
 
-⚡ Fun fact I have a knack for picking up new programming languages in record time playfully tackle the huge datasets.
+🤔 Explore My Profiles:
 
-🤔 If you look for a data scientist in me , go for
+For Data Science: Explore Here
+For Data Analytics: Explore Here
+For Software Development: Hotel Management System Project
+📫 Contact Me:
 
-🤔  If you look for a Data Analayst in me, go for http://bit.ly/3XL2VyO
-  
-🤔 If you look for a Software Developer in me , go for  https://github.com/mansii26/Hotel-Management-System
+Email: inglemanasi26@gmail.com
+🏆 GitHub Achievements
 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-
-
-
-
-✨Looking to dive into the universe and feel ........
-
-![Alt text](https://github.com/mansii26/mansii26/blob/main/1736923581864.gif)
+🌌 Let’s Dive Into the Universe
+✨ Feel the magic...
 
 
+🎯 Skills & Tools
+Languages:
 
+
+
+Frameworks & Libraries:
+
+
+Tools:
+
+
+
+💡 Looking Forward To
+✨ Collaborating on innovative AI projects
+✨ Diving deeper into the world of Data Science and Software Engineering
 
