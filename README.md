@@ -46,3 +46,9 @@ Emerging Software Engineer | Data Scientist  | Creative Thinker | AI Enthusiast
 
 
 
+
+
+https://media.licdn.com/dms/image/v2/D5622AQElDbsyAHsNjg/feedshare-shrink_800/B56ZRothA1G8Ag-/0/1736923581864?e=1740009600&v=beta&t=LPApInroVm0fYlwoGGW_ASvg5Pf-JdWZvgvuRkHLkhU
+
+
+
