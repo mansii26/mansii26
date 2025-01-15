@@ -47,7 +47,7 @@ Emerging Software Engineer | Data Scientist  | Creative Thinker | AI Enthusiast
 
 
 
-![Alt text]("C:\Users\Mansi\Desktop\github\1736923581864 (1).gif")
+![Alt text](https://github.com/mansii26/mansii26/blob/main/1736923581864.gif)
 
 
 
