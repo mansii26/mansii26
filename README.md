@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mansi Ingle
+# Namaste 👋, I'm Mansi Ingle
 
 ### Emerging Software Engineer | Data Scientist | Creative Thinker | AI Enthusiast
 
