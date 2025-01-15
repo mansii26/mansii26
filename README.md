@@ -35,8 +35,10 @@ Emerging Software Engineer | Data Scientist  | Creative Thinker | AI Enthusiast
 ⚡ Fun fact I have a knack for picking up new programming languages in record time playfully tackle the huge datasets.
 
 🤔 If you look for a data scientist in me , go for
-  🤔  If you look for a Data Analayst in me, go for http://bit.ly/3XL2VyO
-    🤔 If you look for a Software Developer in me , go for  
+
+🤔  If you look for a Data Analayst in me, go for http://bit.ly/3XL2VyO
+  
+🤔 If you look for a Software Developer in me , go for  https://github.com/mansii26/Hotel-Management-System
 
 
 
