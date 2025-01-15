@@ -70,7 +70,7 @@ Check out my [GitHub](https://github.com/mansii26) to explore the contributions 
 ### 🎬 Let’s Dive Into the Universe
 Feel the magic of machine learning, data science, and creative thinking. Together, let's push the boundaries of innovation and make meaningful impacts with AI! ✨
 
-![Random Image]()
+![Random Image](https://github.com/mansii26/mansii26/blob/main/1736923581864.gif)
 
 
 
