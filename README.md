@@ -67,6 +67,42 @@ Check out my [GitHub](https://github.com/mansii26) to explore the contributions 
 
 ---
 
+
+# 🚀 My GitHub Repositories
+
+Here are some of my notable projects from various domains:
+
+### 🤖 **AI/ML Projects**
+- **deep-learning-Skin-Cancer-Detection**, **Medical-chatbot**, **youtube-summariser**  
+  Implemented using Jupyter Notebooks and Python with an emphasis on deep learning and AI models for real-world applications.
+
+### 📊 **Data Science & Analytics**
+- **Data-science-job-market--A-visualization**, **Amazon-Phone-Prediction**, **sms-spam-classifier-main**  
+  Projects focused on data analysis, predictive models, and data visualizations using Python, Scikit-learn, and other tools.
+
+### 💻 **Software Engineering**
+
+- **Hotel-Management-System** 🏨  
+  A comprehensive management system designed for hotels to streamline operations like room booking, customer management, and billing. Built using **Python** and **SQL** for back-end, with a user-friendly front-end interface.
+
+---
+
+### 📈 **Power BI Dashboards** 📊
+- **PowerBI_Projects**  
+  This project focuses on creating interactive, visually appealing dashboards using **Power BI** to represent insights from various datasets. From sales performance to customer insights, this project demonstrates how data visualization can assist in decision-making.
+
+---
+
+### 🧠 **GenAI & NLP**
+- **Invoice-Extractor-LLM-APP** 📑  
+  An intelligent invoice extraction system that leverages **Generative AI** and **LLM** (Large Language Models) to accurately extract key information from invoices such as amounts, dates, and vendor details. It utilizes **Python**, **OCR**, and AI models to automate the extraction process.
+
+---
+
+### 👩‍💻 **Skills & Expertise**
+I am skilled in **AI Engineering**, **Generative AI**, **Data Science**, **Software Development**, and **Data Analytics**. Whether it's building machine learning models, developing intelligent chatbots, or creating full-stack applications, I am passionate about solving complex problems and creating innovative solutions.
+
+
 ### 🎬 Let’s Dive Into the Universe
 Feel the magic of machine learning, data science, and creative thinking. Together, let's push the boundaries of innovation and make meaningful impacts with AI! ✨
 
