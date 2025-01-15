@@ -1,22 +1,7 @@
+
+
+
 Hi 👋, I'm Mansi Ingle
-
-<!--
-**mansii26/mansii26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-![mongodb-original-wordmark](https://github.com/user-attachments/assets/17fae461-fe37-483d-a149-0cfd32d7793b)![cplusplus-original](https://github.com/user-attachments/assets/a37257f3-3e0f-4271-9737-106ce5133c4c)![c-original](https://github.com/user-attachments/assets/9b10f924-9583-46d1-a5f0-1b3c05d58a98)![mysql-original-wordmark](https://github.com/user-attachments/assets/b68c428b-c1ea-4b95-a6af-6a3c3e4a92f6)![leet-code](https://github.com/user-attachments/assets/24d0d8dd-aa06-4d59-9579-c55e314ee75f)![linked-in-alt](https://github.com/user-attachments/assets/30fd7643-7d7a-44b4-bf65-e5cad9f7a52e)Hi 👋, I'm Mansi Ingle
 
 <!--
 **mansii26/mansii26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +22,6 @@ Emerging Software Engineer | Data Scientist  | Creative Thinker | AI Enthusiast
 
 ![image](https://github.com/user-attachments/assets/42cb01fa-741b-489a-8d63-30cce3abf712)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 🔭 I’m currently working on buikding a personality suiting the AI & Data Science Engineer with analyst skills
@@ -49,6 +33,11 @@ Emerging Software Engineer | Data Scientist  | Creative Thinker | AI Enthusiast
 📫 How to reach me inglemanasi26@gmail.com
 
 ⚡ Fun fact I have a knack for picking up new programming languages in record time playfully tackle the huge datasets.
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 Connect with me:
 
