@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi 👋, I'm Mansi Ingle
 
 <!--
 **mansii26/mansii26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Emerging Software Engineer | Data Scientist  | Creative Thinker | AI Enthusiast
+
+![image](https://github.com/user-attachments/assets/42cb01fa-741b-489a-8d63-30cce3abf712)
+
